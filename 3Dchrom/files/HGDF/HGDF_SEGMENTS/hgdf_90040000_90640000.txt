@@ -1,0 +1,10 @@
+ENSG00000207515	ENST00000384784		RNA, U6 small nuclear 555, pseudogene [Source:HGNC Symbol;Acc:HGNC:47518]	90597235	90597340	90597235	90597340																							
+
+ENSG00000226081	ENST00000432383		ubiquitin specific peptidase 12 pseudogene, X-linked [Source:HGNC Symbol;Acc:HGNC:21410]	90112650	90113706	90112650	90113706																							
+
+ENSG00000227434	ENST00000426224		ring finger protein 19B pseudogene, X-linked [Source:HGNC Symbol;Acc:HGNC:38484]	90209796	90210420	90209796	90210420																							
+
+ENSG00000229667	ENST00000414760		ubiquitin-conjugating enzyme E2 variant 1 pseudogene 9 [Source:HGNC Symbol;Acc:HGNC:44894]	90289536	90289903	90289536	90289903																							
+
+ENSG00000274022	ENST00000616013			90208895	90209418	90208895	90209418																							
+

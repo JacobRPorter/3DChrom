@@ -1,0 +1,22 @@
+ENSG00000147027	ENST00000275954	ENSP00000275954	transmembrane protein 47 [Source:HGNC Symbol;Acc:HGNC:18515]	34627064	34657288	34627064	34657288	GO:0005886*GO:0016021*GO:0008150*GO:0003674*GO:0005911	plasma membrane*integral component of membrane*biological_process*molecular_function*cell-cell junction	The membrane surrounding a cell that separates the cell from its external environment. It consists of a phospholipid bilayer and associated proteins. [ISBN:0716731363]*The component of a membrane consisting of the gene products and protein complexes having at least some part of their peptide sequence embedded in the hydrophobic region of the membrane. [GOC:dos, GOC:go_curators]*Any process specifically pertinent to the functioning of integrated living units: cells, tissues, organs, and organisms. A process is a collection of molecular events with a defined beginning and end. [GOC:go_curators, GOC:isa_complete]*Elemental activities, such as catalysis or binding, describing the actions of a gene product at the molecular level. A given gene product may exhibit one or more molecular functions. [GOC:go_curators]"*A cell junction that forms a connection between two or more cells in a multicellular organism; excludes direct cytoplasmic junctions such as ring canals. [GOC:dgh, GOC:hb, GOC:mah]"	IDA*IEA*ND*ND*IEA	cellular_component*cellular_component*biological_process*molecular_function*cellular_component	****	A0A024RBY7*A0A024RBY7*A0A024RBY7*A0A024RBY7*A0A024RBY7	Q9BQJ4*Q9BQJ4*Q9BQJ4*Q9BQJ4*Q9BQJ4TMEM47		PF13903	28	171	ENSFM00500000273439	TRANSMEMBRANE 47 TRANSMEMBRANE 4 SUPERFAMILY MEMBER 10	IPR004031	PMP22/EMP/MP20/Claudin	PMP-22/EMP/MP20/Claudin superfamily	ENSFM00500000273439	TRANSMEMBRANE 47 TRANSMEMBRANE 4 SUPERFAMILY MEMBER 10	IPR004031	PMP22/EMP/MP20/Claudin	PMP-22/EMP/MP20/Claudin superfamily	
+
+ENSG00000189132	ENST00000329357	ENSP00000328307	family with sequence similarity 47, member B [Source:HGNC Symbol;Acc:HGNC:26659]	34942796	34944915	34942796	34944915								Q8NA70FAM47B		PF14642*PF14642*PF14642*PF14642	250*344*285*1	294*437*339*258	ENSFM00500000274910*ENSFM00500000274910*ENSFM00500000274910*ENSFM00500000274910	AMBIGUOUS*AMBIGUOUS*AMBIGUOUS*AMBIGUOUS	***	***	***	ENSFM00500000274910*ENSFM00500000274910*ENSFM00500000274910*ENSFM00500000274910	AMBIGUOUS*AMBIGUOUS*AMBIGUOUS*AMBIGUOUS	***	***	***	
+
+ENSG00000222864	ENST00000410932			35056331	35056458	35056331	35056458																							
+
+ENSG00000225384	ENST00000445763			34717440	34717992	34717440	34717992																							
+
+ENSG00000229347	ENST00000427910			35058927	35059974	35058927	35059974																							
+
+ENSG00000230227	ENST00000479411		siah E3 ubiquitin protein ligase 1 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:30966]	35626142	35627064	35626142	35627064																							
+
+ENSG00000233571	ENST00000412652			34206725	34415537	34206725	34415537																							
+
+ENSG00000236072	ENST00000454146			34387722	34388464	34387722	34388464																							
+
+ENSG00000252411	ENST00000516602		RNA, U6 small nuclear 1087, pseudogene [Source:HGNC Symbol;Acc:HGNC:48050]	35594173	35594273	35594173	35594273																							
+
+ENSG00000271136	ENST00000605319			34516920	34517358	34516920	34517358																							
+
+ENSG00000273704	ENST00000618994			34768327	34768688	34768327	34768688																							
+

@@ -1,0 +1,8 @@
+ENSG00000201912	ENST00000365042		RNA, 7SK small nuclear pseudogene 189 [Source:HGNC Symbol;Acc:HGNC:45913]	145057108	145057437	145057108	145057437																							
+
+ENSG00000215054	ENST00000457130		heterogeneous nuclear ribonucleoprotein C pseudogene 10 [Source:HGNC Symbol;Acc:HGNC:48821]	144840777	144841660	144840777	144841660																							
+
+ENSG00000224630	ENST00000436312			144308834	144309080	144308834	144309080																							
+
+ENSG00000235598	ENST00000441721		ribonucleotide reductase M2 polypeptide pseudogene 4 [Source:HGNC Symbol;Acc:HGNC:10456]	144309132	144309693	144309132	144309693																							
+
