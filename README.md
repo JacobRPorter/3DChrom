@@ -32,9 +32,6 @@ Dr. Zheng Wang has likely already provided you an ID and access, but just in cas
 
 --REDACTED--
 
-<b>Pages So Far</b>
-So far, there are three webpages that can be accessed: http://dna.cs.usm.edu/3Dchrom/, http://dna.cs.usm.edu/3Dchrom/homoSapienChrom.php, and http://dna.cs.usm.edu/3Dchrom/homoSapienDomain.php.
-
 <b>Index</b>
 
 The 3Dchrom/index page is a simple stationary page with an introduction. Neither the About or Contact buttons do anything as of yet, but in the future clicking those would provide a contact page and an about page. On the page the gene set we are currently working with is also present, and some other information for display purpose only. The entirety of this page can be changed if needed.
@@ -76,6 +73,8 @@ Also are the hgdf_x_files. These are base files and flat files that I used in co
 <b>Dive into the code</b>
 
 Now, you have a decent understanding of what is going on. It’s time to dive into the code! The code is commented, so it should be pretty easy to understand. However, if you need any help feel free to reach out. 
+
+![screenshot-dna cs usm edu 2016-02-18 13-27-43](https://cloud.githubusercontent.com/assets/3905666/13155463/77dfdbee-d643-11e5-9aaf-6dd7656ac2b1.png)
 
 
 
