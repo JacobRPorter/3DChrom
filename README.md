@@ -1,9 +1,6 @@
-Author: Jacob R. Porter
-Date: 11/10/2015
+<b>This guide to the 3DChrom Program will show you what you need to know to start building</b>
 
-This guide to the 3DChrom Program will show you what you need to know to start building
-
-File Structure
+<b>File Structure</b>
 •	The 3Dchrom folder holds our 3Dchrom project.
 •	css - Inside, our css folder holds our css. For css, we are using custom themes and Bootstrap. Bootstrap documentation is available   at http://getbootstrap.com/
 •	files - Our files folder has all of our data files for the project
