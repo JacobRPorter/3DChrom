@@ -1,26 +1,26 @@
 <b>This guide to the 3DChrom Program will show you what you need to know to start building</b>
 
 <b>File Structure</b>
-•	The 3Dchrom folder holds our 3Dchrom project.
-•	css - Inside, our css folder holds our css. For css, we are using custom themes and Bootstrap. Bootstrap documentation is available   at http://getbootstrap.com/
-•	files - Our files folder has all of our data files for the project
-•	HGDF - Human Gene Definition Files. Inside of this folder there are a few files.
-•	Human_x_gene_file.txt - A backup file with just some ensemble fields
-•	hgdf_x_flat_file - All of the current fields. Split into HGDF_SEGMENTS.
-•	HGDF_SEGMENTS – This folder holds all of our HGDF segments.
-•	PDB - A folder of Program Database Files.
-•	POS - A folder of Gene positions.
-•	fonts - A folder of fonts. (You will never need to touch this.)
-•	j2s - A jmol folder. (You shouldn’t have to worry about this folder.)
-•	java - A jmol Java folder. (You shouldn’t have to worry about this folder.)
-•	js - All of our JavaScript. Some Bootstrap, some jmol. 
-•	php - A jmol PHP folder with one file. (You shouldn’t have to worry about this folder.)
-•	plugins - Contains our DataTables and Jmol plugins.
-•	homoSapienChrom.php - This file contains the view and code of the page that allows you to search for a domain.
-•	homoSapienDomain.php - Follows the homoSapienChrom.php file. Once you select a domain, it displays it with this code.
-•	Index.php - Contains the initial page code.
-•	hgdf_x_files - A comprehensive list of the files that made up the hgdf_flat_file.
-•	PERL Scripts - Contain a number of PERL scripts that manipulate files.
+-	The 3Dchrom folder holds our 3Dchrom project.
+-	css - Inside, our css folder holds our css. For css, we are using custom themes and Bootstrap. Bootstrap documentation is available   at http://getbootstrap.com/
+-	files - Our files folder has all of our data files for the project
+-	HGDF - Human Gene Definition Files. Inside of this folder there are a few files.
+-	Human_x_gene_file.txt - A backup file with just some ensemble fields
+-	hgdf_x_flat_file - All of the current fields. Split into HGDF_SEGMENTS.
+-	HGDF_SEGMENTS – This folder holds all of our HGDF segments.
+-	PDB - A folder of Program Database Files.
+-	POS - A folder of Gene positions.
+-	fonts - A folder of fonts. (You will never need to touch this.)
+-	j2s - A jmol folder. (You shouldn’t have to worry about this folder.)
+-	java - A jmol Java folder. (You shouldn’t have to worry about this folder.)
+-	js - All of our JavaScript. Some Bootstrap, some jmol. 
+-	php - A jmol PHP folder with one file. (You shouldn’t have to worry about this folder.)
+-	plugins - Contains our DataTables and Jmol plugins.
+-	homoSapienChrom.php - This file contains the view and code of the page that allows you to search for a domain.
+-	homoSapienDomain.php - Follows the homoSapienChrom.php file. Once you select a domain, it displays it with this code.
+-	index.php - Contains the initial page code.
+-	hgdf_x_files - A comprehensive list of the files that made up the hgdf_flat_file.
+-	PERL Scripts - Contain a number of PERL scripts that manipulate files.
 
 <b>Installation and starting</b>
 To install and start working with the above code, you will need a XAMPP installation. Once XAMPP is installed, navigate to the htdocs folder. In my Windows system, it is available at C:\xampp\htdocs\
